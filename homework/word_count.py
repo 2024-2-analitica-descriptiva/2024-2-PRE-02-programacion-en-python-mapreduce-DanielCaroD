@@ -6,6 +6,7 @@ import fileinput
 import glob
 import os.path
 from itertools import groupby
+import string
 
 
 #
